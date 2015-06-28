@@ -5,7 +5,7 @@ This template will ease your way in building a single-page app backed by a Djang
 To use this template, run:
 
 ```
-django-admin.py startproject YOUR_PROJECT_NAME --template=/tmp/django-project --extension=py,md --name=Procfile
+django-admin.py startproject YOUR_PROJECT_NAME --template=https://github.com/tiyd-python-2015-05/single-page-app-template/archive/master.zip --extension=py,md --name=Procfile
 ```
 
 Change YOUR_PROJECT_NAME before running the above.
